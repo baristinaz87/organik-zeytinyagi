@@ -1,0 +1,307 @@
+
+<div class="nav-bar">
+<!-- menu start -->
+<ul id="nav">
+<li  class="  level0"> <a href="http://dev2.zeytinyagi.com/index.php/panel/dashboard/index/key/$dashboard/index$/"   class=""><span>Genel Bakış</span></a>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level0"> <a href="#"  onclick="return false" class=""><span>Satışlar</span></a>
+<ul >
+<li  class="  level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/sales_order/index/key/$sales_order/index$/"   class=""><span>Siparişler</span></a>
+</li>
+<li  class="  level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/sales_invoice/index/key/$sales_invoice/index$/"   class=""><span>Faturalar</span></a>
+</li>
+<li  class="  level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/sales_shipment/index/key/$sales_shipment/index$/"   class=""><span>Kargolar</span></a>
+</li>
+<li  class="  level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/sales_creditmemo/index/key/$sales_creditmemo/index$/"   class=""><span>Alacak Kaydı</span></a>
+</li>
+<li  class="  level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/sales_transactions/index/key/$sales_transactions/index$/"   class=""><span>İşlemler</span></a>
+</li>
+<li  class="  level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/sales_recurring_profile/index/key/$sales_recurring_profile/index$/"   class=""><span>Periyodik Ödeme Profilleri (beta)</span></a>
+</li>
+<li  class="  level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/sales_billing_agreement/index/key/$sales_billing_agreement/index$/"   class=""><span>Ödeme Sözleşmeleri</span></a>
+</li>
+<li  class="  level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/checkout_agreement/index/key/$checkout_agreement/index$/"   class=""><span>Kullanım koşulları</span></a>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent last level1"> <a href="#"  onclick="return false" class=""><span>Vergi</span></a>
+<ul >
+<li  class="  level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/tax_rule/index/key/$tax_rule/index$/"   class=""><span>Vergi Kurallarını Yönet</span></a>
+</li>
+<li  class="  level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/tax_rate/index/key/$tax_rate/index$/"   class=""><span>Vergi Alanlarını ve Oranlarını Yönet</span></a>
+</li>
+<li  class="  level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/tax_rate/importExport/key/$tax_rate/importExport$/"   class=""><span>Vergi oranlarını Al/Ver</span></a>
+</li>
+<li  class="  level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/tax_class_customer/index/key/$tax_class_customer/index$/"   class=""><span>Müşteri Vergi Sınıfları</span></a>
+</li>
+<li  class="  last level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/tax_class_product/index/key/$tax_class_product/index$/"   class=""><span>Ürün Vergi Sınıfları</span></a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level0"> <a href="#"  onclick="return false" class=""><span>Katalog</span></a>
+<ul >
+<li  class="  level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/catalog_product/index/key/$catalog_product/index$/"   class=""><span>Ürünleri Yönet</span></a>
+</li>
+<li  class="  level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/catalog_category/index/key/$catalog_category/index$/"   class=""><span>Kategorileri Yönet</span></a>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Özellikler</span></a>
+<ul >
+<li  class="  level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/catalog_product_attribute/index/key/$catalog_product_attribute/index$/"   class=""><span>Özellikleri Yönet</span></a>
+</li>
+<li  class="  last level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/catalog_product_set/index/key/$catalog_product_set/index$/"   class=""><span>Özellik Setlerini Yönet</span></a>
+</li>
+</ul>
+</li>
+<li  class="  level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/urlrewrite/index/key/$urlrewrite/index$/"   class=""><span>Adres Yeniden Yazım Yönetimi</span></a>
+</li>
+<li  class="  level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/catalog_search/index/key/$catalog_search/index$/"   class=""><span>Arananlar</span></a>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Yorumlar ve Puanlar</span></a>
+<ul >
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level2"> <a href="#"  onclick="return false" class=""><span>Müşteri Yorumları</span></a>
+<ul >
+<li  class="  level3"> <a href="http://dev2.zeytinyagi.com/index.php/panel/catalog_product_review/pending/key/$catalog_product_review/pending$/"   class=""><span>Bekleyen Yorumlar</span></a>
+</li>
+<li  class="  last level3"> <a href="http://dev2.zeytinyagi.com/index.php/panel/catalog_product_review/index/key/$catalog_product_review/index$/"   class=""><span>Tüm Yorumlar</span></a>
+</li>
+</ul>
+</li>
+<li  class="  last level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/rating/index/key/$rating/index$/"   class=""><span>Puanları Yönet</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Etiketler</span></a>
+<ul >
+<li  class="  level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/tag/index/key/$tag/index$/"   class=""><span>Tüm Etiketler</span></a>
+</li>
+<li  class="  last level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/tag/pending/key/$tag/pending$/"   class=""><span>Bekleyen Etiketler</span></a>
+</li>
+</ul>
+</li>
+<li  class="  last level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/sitemap/index/key/$sitemap/index$/"   class=""><span>Google Site Haritası</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level0"> <a href="#"  onclick="return false" class=""><span>Mobil</span></a>
+<ul >
+<li  class="  level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/mobile/index/key/$mobile/index$/"   class=""><span>Uygulamaları Yönet</span></a>
+</li>
+<li  class="  level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/mobile/history/key/$mobile/history$/"   class=""><span>Gönderme Geçmişi</span></a>
+</li>
+<li  class="  level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/mobile/template/key/$mobile/template$/"   class=""><span>Mesaj Şablonları</span></a>
+</li>
+<li  class="  last level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/mobile/queue/key/$mobile/queue$/"   class=""><span>Mesaj Kuyruğu</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level0"> <a href="#"  onclick="return false" class=""><span>Müşteriler</span></a>
+<ul >
+<li  class="  level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/customer/index/key/$customer/index$/"   class=""><span>Müşterileri Yönet</span></a>
+</li>
+<li  class="  level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/customer_group/index/key/$customer_group/index$/"   class=""><span>Müşteri Grupları</span></a>
+</li>
+<li  class="  last level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/customer_online/index/key/$customer_online/index$/"   class=""><span>Sitedeki Müşteriler</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level0"> <a href="#"  onclick="return false" class=""><span>Promosyonlar</span></a>
+<ul >
+<li  class="  level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/promo_catalog/index/key/$promo_catalog/index$/"   class=""><span>Katalog Fiyat Kuralları</span></a>
+</li>
+<li  class="  last level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/promo_quote/index/key/$promo_quote/index$/"   class=""><span>Alışveriş Sepeti Fiyat Kuralları</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level0"> <a href="#"  onclick="return false" class=""><span>Duyuru</span></a>
+<ul >
+<li  class="  level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/newsletter_template/index/key/$newsletter_template/index$/"   class=""><span>Duyuru Temaları</span></a>
+</li>
+<li  class="  level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/newsletter_queue/index/key/$newsletter_queue/index$/"   class=""><span>Duyuru Kuyruğu</span></a>
+</li>
+<li  class="  level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/newsletter_subscriber/index/key/$newsletter_subscriber/index$/"   class=""><span>Duyuru Aboneleri</span></a>
+</li>
+<li  class="  last level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/newsletter_problem/index/key/$newsletter_problem/index$/"   class=""><span>Duyuru Gönderimi Problem Raporları</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level0"> <a href="#"  onclick="return false" class=""><span>İçerik Yönetimi (CMS)</span></a>
+<ul >
+<li  class="  level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/cms_page/index/key/$cms_page/index$/"   class=""><span>Sayfalar</span></a>
+</li>
+<li  class="  level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/cms_block/index/key/$cms_block/index$/"   class=""><span>Bloklar</span></a>
+</li>
+<li  class="  level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/widget_instance/index/key/$widget_instance/index$/"   class=""><span>Kutucuklar</span></a>
+</li>
+<li  class="  last level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/poll/index/key/$poll/index$/"   class=""><span>Anketler</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level0"> <a href="#"  onclick="return false" class=""><span>Raporlar</span></a>
+<ul >
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Satışlar</span></a>
+<ul >
+<li  class="  level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/report_sales/sales/key/$report_sales/sales$/"   class=""><span>Siparişler</span></a>
+</li>
+<li  class="  level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/report_sales/tax/key/$report_sales/tax$/"   class=""><span>Vergi</span></a>
+</li>
+<li  class="  level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/report_sales/invoiced/key/$report_sales/invoiced$/"   class=""><span>Faturalanmış</span></a>
+</li>
+<li  class="  level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/report_sales/shipping/key/$report_sales/shipping$/"   class=""><span>Kargo</span></a>
+</li>
+<li  class="  level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/report_sales/refunded/key/$report_sales/refunded$/"   class=""><span>İadeler</span></a>
+</li>
+<li  class="  level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/report_sales/coupons/key/$report_sales/coupons$/"   class=""><span>Kuponlar</span></a>
+</li>
+<li  class="  last level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/paypal_reports/index/key/$paypal_reports/index$/"   class=""><span>PayPal Ödeme Raporları</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Alışveriş Sepeti</span></a>
+<ul >
+<li  class="  level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/report_shopcart/product/key/$report_shopcart/product$/"   class=""><span>Sepetlerdeki ürünler</span></a>
+</li>
+<li  class="  last level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/report_shopcart/abandoned/key/$report_shopcart/abandoned$/"   class=""><span>Terk edilen sepetler</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Ürünler</span></a>
+<ul >
+<li  class="  level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/report_sales/bestsellers/key/$report_sales/bestsellers$/"   class=""><span>En Çok Satanlar</span></a>
+</li>
+<li  class="  level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/report_product/sold/key/$report_product/sold$/"   class=""><span>Sipariş verilen ürünler</span></a>
+</li>
+<li  class="  level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/report_product/viewed/key/$report_product/viewed$/"   class=""><span>En Çok Görülen</span></a>
+</li>
+<li  class="  level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/report_product/lowstock/key/$report_product/lowstock$/"   class=""><span>Düşük Stok</span></a>
+</li>
+<li  class="  last level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/report_product/downloads/key/$report_product/downloads$/"   class=""><span>İndirmeler</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Müşteriler</span></a>
+<ul >
+<li  class="  level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/report_customer/accounts/key/$report_customer/accounts$/"   class=""><span>Yeni Hesaplar</span></a>
+</li>
+<li  class="  level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/report_customer/totals/key/$report_customer/totals$/"   class=""><span>Sipariş ücret toplamına göre müşteriler</span></a>
+</li>
+<li  class="  last level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/report_customer/orders/key/$report_customer/orders$/"   class=""><span>Sipariş sayısına göre müşteriler</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Etiketler</span></a>
+<ul >
+<li  class="  level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/report_tag/customer/key/$report_tag/customer$/"   class=""><span>Müşteriler</span></a>
+</li>
+<li  class="  level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/report_tag/product/key/$report_tag/product$/"   class=""><span>Ürünler</span></a>
+</li>
+<li  class="  last level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/report_tag/popular/key/$report_tag/popular$/"   class=""><span>Popüler</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Yorumlar</span></a>
+<ul >
+<li  class="  level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/report_review/customer/key/$report_review/customer$/"   class=""><span>Müşteri Yorumları</span></a>
+</li>
+<li  class="  last level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/report_review/product/key/$report_review/product$/"   class=""><span>Ürün Yorumları</span></a>
+</li>
+</ul>
+</li>
+<li  class="  level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/report/search/key/$report/search$/"   class=""><span>Arama Kelimeleri</span></a>
+</li>
+<li  class="  last level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/report_statistics/index/key/$report_statistics/index$/"   class=""><span>İstatistikleri Güncelle</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class=" active  parent level0"> <a href="#"  onclick="return false" class="active"><span>Sistem</span></a>
+<ul >
+<li  class="  level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/system_account/index/key/$system_account/index$/"   class=""><span>Hesabım</span></a>
+</li>
+<li  class="  level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/notification/index/key/$notification/index$/"   class=""><span>Duyurular</span></a>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Araçlar</span></a>
+<ul >
+<li  class="  level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/system_backup/index/key/$system_backup/index$/"   class=""><span>Yedekler</span></a>
+</li>
+<li  class="  last level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/compiler_process/index/key/$compiler_process/index$/"   class=""><span>Derleme</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Web Hizmetleri</span></a>
+<ul >
+<li  class="  level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/api_user/index/key/$api_user/index$/"   class=""><span>SOAP/XML-RPC - Kullanıcıları</span></a>
+</li>
+<li  class="  level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/api_role/index/key/$api_role/index$/"   class=""><span>SOAP/XML-RPC - Rolleri</span></a>
+</li>
+<li  class="  level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/api2_role/index/key/$api2_role/index$/"   class=""><span>REST - Roles</span></a>
+</li>
+<li  class="  level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/api2_attribute/index/key/$api2_attribute/index$/"   class=""><span>REST - Attributes</span></a>
+</li>
+<li  class="  level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/oauth_consumer/index/key/$oauth_consumer/index$/"   class=""><span>REST - OAuth Tüketiciler</span></a>
+</li>
+<li  class="  level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/oauth_authorizedTokens/index/key/$oauth_authorizedTokens/index$/"   class=""><span>REST - OAuth Onaylanmış</span></a>
+</li>
+<li  class="  last level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/oauth_admin_token/index/key/$oauth_admin_token/index$/"   class=""><span>REST - Uygulamalarım</span></a>
+</li>
+</ul>
+</li>
+<li  class="  level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/system_design/index/key/$system_design/index$/"   class=""><span>Tasarım</span></a>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Veri Ver/Al</span></a>
+<ul >
+<li  class="  level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/import/index/key/$import/index$/"   class=""><span>Veri Al</span></a>
+</li>
+<li  class="  level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/export/index/key/$export/index$/"   class=""><span>Dışarı Veri Çıkar</span></a>
+</li>
+<li  class="  level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/system_convert_gui/index/key/$system_convert_gui/index$/"   class=""><span>Dataflow - Profiller</span></a>
+</li>
+<li  class="  last level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/system_convert_profile/index/key/$system_convert_profile/index$/"   class=""><span>Dataflow - Gelişmiş Profiller</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/system_currency/index/key/$system_currency/index$/"   class=""><span>Para Birimlerini Yönet</span></a>
+<ul >
+<li  class="  level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/system_currency/index/key/$system_currency/index$/"   class=""><span>Döviz Kuru</span></a>
+</li>
+<li  class="  last level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/system_currencysymbol/index/key/$system_currencysymbol/index$/"   class=""><span>Semboller</span></a>
+</li>
+</ul>
+</li>
+<li  class="  level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/system_email_template/index/key/$system_email_template/index$/"   class=""><span>E-mail Şablonları</span></a>
+</li>
+<li  class="  level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/system_variable/index/key/$system_variable/index$/"   class=""><span>Özel Değişkenler</span></a>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Yöneticiler / Yetkiler</span></a>
+<ul >
+<li  class="  level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/permissions_user/index/key/$permissions_user/index$/"   class=""><span>Kullanıcılar</span></a>
+</li>
+<li  class="  last level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/permissions_role/index/key/$permissions_role/index$/"   class=""><span>Yetki Sınıfları</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Magento Connect Sistemi</span></a>
+<ul >
+<li  class="  level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/extension_local/index/key/$extension_local/index$/"   class=""><span>Magento Connect Yöneticisi</span></a>
+</li>
+<li  class="  last level2"> <a href="http://dev2.zeytinyagi.com/index.php/panel/extension_custom/index/key/$extension_custom/index$/"   class=""><span>Paket Eklentileri</span></a>
+</li>
+</ul>
+</li>
+<li  class="  level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/cache/index/key/$cache/index$/"   class=""><span>Önbellek Yönetimi</span></a>
+</li>
+<li  class="  level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/process/list/key/$process/list$/"   class=""><span>İndeks Yönetimi</span></a>
+</li>
+<li  class="  level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/system_store/index/key/$system_store/index$/"   class=""><span>Mağazaları Yönet</span></a>
+</li>
+<li  class="  level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/sales_order_status/index/key/$sales_order_status/index$/"   class=""><span>Sipariş Durumları</span></a>
+</li>
+<li  class="  last level1"> <a href="http://dev2.zeytinyagi.com/index.php/panel/system_config/index/key/$system_config/index$/"   class=""><span>Ayarlar</span></a>
+</li>
+</ul>
+</li>
+</ul>
+<!-- menu end -->
+
+    <a id="page-help-link" href="http://www.magentocommerce.com/gethelp/tr_TR/Mage_Index_Adminhtml/process/list/">Bu sayfa hakkında yardım al</a>
+    <script type="text/javascript">$('page-help-link').target = 'magento_page_help'</script>
+
+</div>
